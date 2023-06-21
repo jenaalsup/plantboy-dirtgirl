@@ -1,3 +1,3 @@
+## Plantboy and Dirtgirl
 An Earthy twist on Fireboy and Watergirl!
-Created by jalsup, apenn2, mmutadic, and mbanik
-Spring 2023
+Created by Jena Alsup, Ava Penn, Mia Mutadich, and Meher Banik (Spring 2023).
